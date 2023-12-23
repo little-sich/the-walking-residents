@@ -333,6 +333,7 @@ button {
     color: #fff;
 }
 .winner_text{
+    margin-top: 20px;
     width: 100%;
     float: left;
     font-size: 40px;
@@ -387,7 +388,7 @@ button {
 }
 
 .winners{
-    padding-top: 20px;
+    padding-top: 10px;
     width: 100%;
     float: left;
     font-size: 18px;
