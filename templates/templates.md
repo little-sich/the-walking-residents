@@ -1,6 +1,6 @@
 # Макеты нашего веб-приложения
 ## Мобильная версия
 1. Главный экран
-![main-screen](/templates/mobile-main-page.png)
-2. Карта
-![map](/templates/mobile-map-page.png) 
+<img src="/templates/mobile-main-page.png" alt="main-page" title="Mobile main page" width="300" /> 
+3. Карта
+<img src="/templates/mobile-map-page.png" alt="map" title="Mobile map page" width="300" /> 
