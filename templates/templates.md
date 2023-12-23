@@ -3,4 +3,6 @@
 1. Главный экран
 <img src="/templates/mobile-main-page.png" alt="main-page" title="Mobile main page" width="300" /> 
 2. Карта
-<img src="/templates/mobile-map-page.png" alt="map" title="Mobile map page" width="300" /> 
+<img src="/templates/mobile-map-page.png" alt="map" title="Mobile map page" width="300" />
+3. Голосование и добавление места
+<img src="/templates/mobile-contest-page.png" alt="map" title="Mobile contest page" width="300" />
