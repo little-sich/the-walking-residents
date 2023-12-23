@@ -645,6 +645,7 @@ h1.choose_text {
     width: 100%;
     float: left;
     font-size: 40px;
+    font-weight: medium;
     color: #fff;
     text-align: center;
     text-transform: uppercase;
