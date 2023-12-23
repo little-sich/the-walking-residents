@@ -1026,32 +1026,32 @@ h1.choose_text {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #2a2a2c;
+    color: #fff;
     background-color: transparent !important;
     padding: 10px 20px 0px 0px;
     margin-bottom: 20px;
-    border-bottom: 2px solid #252525 !important;
+    border-bottom: 2px solid #fff !important;
     border: 0px;
 }
 input.mail_text::placeholder {
-    color: #2a2a2c;
+    color: #fff;
 }
 .massage_box {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #2a2a2c;
+    color: #fff;
     background-color: transparent !important;
     margin-bottom: 30px;
     padding-left: 0;
     padding-right: 35px;
     height: 100px;
     padding: 70px 20px 0px 0px;
-    border-bottom: 2px solid #252525 !important;
+    border-bottom: 2px solid #fff !important;
     border: 0px;
 }
 textarea.massage_box::placeholder {
-    color: #2a2a2c;
+    color: #fff;
 }
 .send_bt {
     width: 15%;
