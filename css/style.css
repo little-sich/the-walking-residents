@@ -421,7 +421,7 @@ select.form-control:not([size]):not([multiple]) {
     background-position: 96% center;
 }
 .start_bt {
-    width: 30%;
+    width: 40%;
     margin: 0 auto;
     text-align: center;
 }
