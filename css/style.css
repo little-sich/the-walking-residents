@@ -332,6 +332,21 @@ button {
     text-align: center;
     color: #fff;
 }
+.winner_text{
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #fff;
+}
+.last_text{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
 .amazing_text{
     width: 100%;
     float: left;
@@ -370,6 +385,18 @@ button {
     margin-left: 0px;
     color: #fff;
 }
+
+.winners{
+    padding-top: 20px;
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 0px;
+    padding-bottom: 20px;
+    color: #fff;
+}
+
 .banner_section2{
     width: 100%;
     float: left;
