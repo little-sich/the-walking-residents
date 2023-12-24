@@ -1305,7 +1305,7 @@ place {
 
 div.place {
    width: 75%;
-   margin: 20px;
+   margin: 20px 20px 20px 120px;
    background-size: 100%;
    background-repeat: no-repeat;
    background-image: url(../images/gorky.png);
