@@ -1230,12 +1230,13 @@ textarea.massage_box::placeholder {
      margin-left: 30px;
 }
 
-.place {
+p.place {
      font-size: 16px;
      width: 65%;
      float: left;
      text-align: left;
      color: #ddd;
+     margin: 0px 20px 20px 20px;
 }
 
 div.place {
