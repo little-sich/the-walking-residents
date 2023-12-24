@@ -478,10 +478,10 @@ select.form-control:not([size]):not([multiple]) {
 .start2_bt {
     width: 30%;
     margin: 0 auto;
-    text-align: center;
 }
 
 .switch1_bt {
+    text-align: right; 
     width: 100%;
     float: right;
     margin: 20px 0px 20px 0px;
@@ -507,11 +507,13 @@ select.form-control:not([size]):not([multiple]) {
 .switch2_bt {
     width: 100%;
     float: left;
+    text-align: left;
     margin: 20px 0px 20px 0px;
 }
 
 .switch2_bt a {
     width: 100%;
+    text-align: left; 
     float: left;
     font-size: 20px;
     font-family: "Noto Sans", Noto, sans;
