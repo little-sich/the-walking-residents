@@ -291,6 +291,12 @@ button {
     box-shadow: initial;;
 }
 
+.heart_text{
+    text-align: right;
+    float: right;
+    font-size: 40px;
+}
+
 .call_text{
     text-align: right;
     text-decoration: underline;
