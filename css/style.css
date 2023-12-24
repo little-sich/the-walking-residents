@@ -352,6 +352,22 @@ button {
     text-align: center;
     color: #fff;
 }
+.place_text{
+    width: 100%;
+    float: left;
+    font-size: 60px;
+    font-weight: 500;
+    text-align: left;
+    color: #fff;
+}
+.user_text{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: left;
+    color: #fff;
+}
 .amazing_text{
     width: 100%;
     float: left;
@@ -1202,4 +1218,17 @@ textarea.massage_box::placeholder {
 .fa-regular {
     font-size: 20px;
     padding-right: 5px;
+}
+
+.userplace {
+     margin-left: 30px;
+}
+
+.place {
+     font-size: 16px;
+     width: 60%;
+     float: left;
+     text-align: left;
+     color: #ddd;
+     background-image: url(./images/banner-bg.png);
 }
