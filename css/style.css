@@ -1240,6 +1240,7 @@ place {
 }
 
 div.place {
+   margin: 20px;
    background-size: 100%;
    background-repeat: no-repeat;
    background-image: url(../images/banner-bg.png);
