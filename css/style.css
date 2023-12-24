@@ -1236,7 +1236,6 @@ place {
      float: left;
      text-align: left;
      color: #ddd;
-     margin: 0px 20px 20px 20px;
 }
 
 div.place {
@@ -1246,4 +1245,13 @@ div.place {
    background-image: url(../images/gorky.png);
    border-color: transparent;
    border-radius: 20px;
+}
+
+p.place {
+     font-size: 16px;
+     width: 50%;
+     float: left;
+     text-align: left;
+     color: #eee;
+     margin: 0px 20px 20px 20px;
 }
