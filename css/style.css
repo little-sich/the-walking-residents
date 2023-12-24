@@ -240,6 +240,11 @@ button {
     width: 15%;
     float: left;
 }
+
+.logoadmin {
+    width: 15%;
+}
+
 .navbar-light .navbar-nav .nav-link {
     color: #fff;
     font-size: 18px;
