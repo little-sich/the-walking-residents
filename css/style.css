@@ -1236,6 +1236,7 @@ textarea.massage_box::placeholder {
      float: left;
      text-align: left;
      color: #ddd;
-     background-image: url('images/banner-bg.png');
-     background: no-repeat;
+     background-size: 100%;
+     background-repeat: no-repeat;
+     background-image: url(../images/banner-bg.png);
 }
