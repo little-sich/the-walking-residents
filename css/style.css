@@ -355,6 +355,7 @@ button {
 .place_text{
     width: 100%;
     float: left;
+    padding-left: 15px;
     font-size: 40px;
     font-weight: 500;
     text-align: left;
@@ -363,6 +364,7 @@ button {
 .user_text{
     width: 100%;
     float: left;
+    padding-left: 15px;
     font-size: 25px;
     font-weight: 500;
     text-align: left;
