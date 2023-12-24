@@ -469,6 +469,36 @@ select.form-control:not([size]):not([multiple]) {
     color: #000;
     background-color: #fff;
 }
+
+.start2_bt {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.switch_bt {
+    width: 100%;
+    float: right;
+    margin: 20px 0px 20px 0px;
+}
+
+.switch_bt a {
+    width: 100%;
+    float: right;
+    font-size: 20px;
+    font-family: "Noto Sans", Noto, sans;
+    color: #fff;
+    background-color: #47a87c;
+    text-align: center;
+    padding: 20px 5px;
+    border-radius: 40px;
+}
+
+.switch_bt a:hover {
+    color: #000;
+    background-color: #fff;
+}
+
 .browse_text{
     width: 100%;
     float: left;
